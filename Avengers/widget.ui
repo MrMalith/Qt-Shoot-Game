@@ -499,8 +499,8 @@ color:rgb(138, 42, 43);
       <item row="3" column="0" rowspan="2">
        <widget class="QLabel" name="label_4">
         <property name="styleSheet">
-         <string notr="true">
-color:white;
+         <string notr="true">color:rgb(138, 42, 43);
+
 </string>
         </property>
         <property name="text">
@@ -529,9 +529,9 @@ color:white;
            <colorrole role="WindowText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -547,18 +547,18 @@ color:white;
            <colorrole role="Text">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
            <colorrole role="ButtonText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -583,9 +583,9 @@ color:white;
            <colorrole role="PlaceholderText">
             <brush brushstyle="NoBrush">
              <color alpha="128">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -594,9 +594,9 @@ color:white;
            <colorrole role="WindowText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -612,18 +612,18 @@ color:white;
            <colorrole role="Text">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
            <colorrole role="ButtonText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -648,9 +648,9 @@ color:white;
            <colorrole role="PlaceholderText">
             <brush brushstyle="NoBrush">
              <color alpha="128">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -659,9 +659,9 @@ color:white;
            <colorrole role="WindowText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -677,18 +677,18 @@ color:white;
            <colorrole role="Text">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
            <colorrole role="ButtonText">
             <brush brushstyle="SolidPattern">
              <color alpha="255">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -713,9 +713,9 @@ color:white;
            <colorrole role="PlaceholderText">
             <brush brushstyle="NoBrush">
              <color alpha="128">
-              <red>221</red>
-              <green>0</green>
-              <blue>40</blue>
+              <red>138</red>
+              <green>42</green>
+              <blue>43</blue>
              </color>
             </brush>
            </colorrole>
@@ -723,7 +723,7 @@ color:white;
          </palette>
         </property>
         <property name="styleSheet">
-         <string notr="true">color: rgb(221, 0, 40);</string>
+         <string notr="true">color:rgb(138, 42, 43);</string>
         </property>
         <property name="text">
          <string>MAX ENEMY ESCAPE: 8</string>
@@ -733,8 +733,8 @@ color:white;
       <item row="2" column="0">
        <widget class="QLabel" name="label_2">
         <property name="styleSheet">
-         <string notr="true">
-color:white;
+         <string notr="true">color:rgb(138, 42, 43);
+
 </string>
         </property>
         <property name="text">

@@ -3,7 +3,7 @@
 
 Plane::Plane(){
 
-	image.load(":images/plane3.png");
+    image.load(":images/plane3.png");
     rect = image.rect();
     resetState();
   }
