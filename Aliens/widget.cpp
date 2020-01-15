@@ -15,7 +15,7 @@ Widget::Widget(QWidget *parent)
     : QWidget(parent), ui(new Ui::Widget)
 {
     ui->setupUi(this);
-    setWindowTitle("Avengers");
+    setWindowTitle("Aliens");
     QPalette palette;
     palette.setBrush(this->backgroundRole(), QBrush(QImage(":images/sky.png")));
     this->setPalette(palette);
